@@ -1,11 +1,11 @@
 TEMATIKA (TERV) HETEKRE BONTVA GYAKORLATON
 
 1. hét: Halmaz azonosságok “bizonyítása”, milyen halmazokra teljesül típusú “egyenletmegoldás” halmazokkal.
-2. hét: Relációk tulajdonságai, osztályfelbontás, ekvivalenciareláció
-3. hét: Relációk kompozíciója, részbenrendezés. Függvények, mûveletek tulajdonságai.
+2. hét: Relációk alapjai, homogén binér relációk tulajdonságai.
+3. hét: Osztályfelbontás, ekvivalenciareláció, relációk kompozíciója.
+4. hét: Függvények, mûveletek tulajdonságai. Részbenrendezés.
 ---
-4. hét: Komplex számok algebrai alakja (ismétlés) + Trigonometrikus alak, átírás.
-5. hét: Moivre azonosságok, hatványozás, gyökvonás.
+5. hét: Komplex számok algebrai alakja (ismétlés), trigonometrikus alak, Moivre azonosságok, hatványozás, gyökvonás.
 6. hét: Egységgyökök, mûveletek geometriája, bizonyos tulajdonságú pontok mértani helye.
 ---
 7. hét: Kombinatorika gyakorlás, skatulya elv, egyszerû leszámlálások. Annak gyakorlása, hogy mikor adunk / szorzunk össze részereményeket.
