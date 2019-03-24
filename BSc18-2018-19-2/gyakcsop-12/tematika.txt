@@ -8,11 +8,11 @@ TEMATIKA (TERV) HETEKRE BONTVA GYAKORLATON
 5. hét: Komplex számok algebrai alakja (ismétlés), trigonometrikus alak, Moivre azonosságok, hatványozás, gyökvonás.
 6. hét: Egységgyökök, mûveletek geometriája, bizonyos tulajdonságú pontok mértani helye.
 ---
-7. hét: Kombinatorika gyakorlás, skatulya elv, egyszerû leszámlálások. Annak gyakorlása, hogy mikor adunk / szorzunk össze részereményeket.
-8. hét: Permutációk, variációk, kombinációk gyakorlása.
-9. hét: Binomiális tétel gyakorlása, szita. Gráfok elkezdése.
+7. hét: Permutációk, variációk, kombinációk.
+8. hét: Összetett leszámlálási feladatok.
+9. hét: Skatulya elv, Binomiális tétel gyakorlása, szita. Gráfok elkezdése.
 ---
-10. hét: Fák, leghosszab utas feladatok.
+10. hét: Fák, leghosszabb utas feladatok.
 11. hét: Irányított gráfos feladatok, Euler, Hamilton.
 12. hét: Síkbarajzolás, színezés, gráfok adatszerkezetei.
 
