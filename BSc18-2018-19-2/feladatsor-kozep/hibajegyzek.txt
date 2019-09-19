@@ -1,0 +1,7 @@
+Hibajegyzék
+
+
+1. zh B: 4. feladat, f3 képletében R \times R után csak egy | van
+
+2. zh A: 5. feladat, helyes fokszámsorozat: (1) 5,5,4,3,2,1; (4) 5,4,4,4,3,0
+
