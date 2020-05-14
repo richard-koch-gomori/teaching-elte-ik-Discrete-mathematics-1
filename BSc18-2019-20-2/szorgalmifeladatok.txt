@@ -13,4 +13,8 @@
 
 10. feladatsor/6. feladat
 
+https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc18-2019-20-2/feladatsor/elozo_zh-k/potzh2feladatsor.pdf -- 4. feladat/(b); határidő: 2. zh (2020/05/19)
+
+https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc18-2019-20-2/feladatsor/elozo_zh-k/potzh2feladatsor.pdf -- 5. feladat; határidő: 2. zh (2020/05/19)
+
 
