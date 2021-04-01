@@ -7,6 +7,7 @@
 2. feladatsor: 7. feladat/(b), 9. feladat/(b), (d); határidő: 5. gyakorlat
 3. feladatsor: 4. feladat/(c); határidő: 6. gyakorlat
 5. feladatsor: 4. feladat; határidő: 7. gyakorlat
+5. feladatsor: 8. feladat/tetszőlegesen választott 2 db, ami nem volt gyakorlaton; határidő: 8. gyakorlat
 ~~~
 
 
