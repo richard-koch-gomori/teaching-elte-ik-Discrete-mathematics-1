@@ -12,7 +12,7 @@
 
 https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc18-2018-19-2/feladatsor-kozep/zh2feladatsorA.pdf -- 1. feladat (c) kihagyásával; határidő: 9. gyakorlat
 
-https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc18-2019-20-2/feladatsor/elozo_zh-k/potzh2feladatsor.pdf -- 5. feladat; határidő: szorgalmi időszak végéig
+https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc08-2017-18-1/feladatsor/dimat1feladatsor6.pdf -- 10. feladat; határidő: szorgalmi időszak végéig
 
 
 
