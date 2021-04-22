@@ -14,5 +14,7 @@ https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/b
 
 https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc08-2017-18-1/feladatsor/dimat1feladatsor6.pdf -- 10. feladat; határidő: szorgalmi időszak végéig
 
+https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc18-2018-19-2/feladatsor-kozep/zh2feladatsorA.pdf -- 2. feladat; határidő: 10. gyakorlat
+
 
 
