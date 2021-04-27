@@ -16,5 +16,5 @@ https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/b
 
 https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc18-2018-19-2/feladatsor-kozep/zh2feladatsorA.pdf -- 2. feladat; határidő: 10. gyakorlat
 
-
+https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1/blob/master/BSc18-2018-19-2/feladatsor-kozep/zh2feladatsorA.pdf -- 3. feladat/b és 4. feladat/a; határidő: 11. gyakorlat
 
