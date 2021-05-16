@@ -7,7 +7,7 @@ hétfõnként, 17:45-19:15, MS Teams/Dimat1 gyakcsop-22 csapat (team)
 ## konzultáció
 
 1. zh konzultáció: április 07. szerda 18:00, MS Teams/Dimat1 gyakcsop-22 csapat (team)  
-2. zh konzultáció: május 12. szerda 18:00, MS Teams/Dimat1 gyakcsop-22 csapat (team)  
+2. zh konzultáció: május 17. hétfõ 16:30, MS Teams/Dimat1 gyakcsop-22 csapat (team)  
 
 igény esetén; email-ben/személyesen lehet egyeztetni konzultációt bármikorra
 
